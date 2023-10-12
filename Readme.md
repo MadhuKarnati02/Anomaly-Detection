@@ -6,12 +6,12 @@
 <p>Anomaly Detection in network traffic using </p>
 
 * This is an Individual Project 
-* We have created Clone of this Website
-* Duration 4 Days
+<!-- * We have created Clone of this Website
+* Duration 4 Days -->
 <hr>
 
 
-                    
+<!--                     
 
 <hr>
 
@@ -64,4 +64,4 @@
 <img src="https://i.ibb.co/ScP6WGM/unit5-team-members.jpg" alt="unit5-team-members" border="0">
 
 useremail: r@gmail.com
-password: r123
+password: r123 -->
